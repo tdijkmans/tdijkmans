@@ -1,4 +1,4 @@
-![ani](https://github.com/tdijkmans/tdijkmans/TD.gif)
+![ani](https://github.com/tdijkmans/tdijkmans/TD.png)
 Hi, I'm Thomas. I recently graduated at Codaisseur's Academy Amsterdam as _Fullstack Developer_. If you want to check out my projects, great! - have a look at my repositories and I recommend you visit [✨Savoristas✨ ](https://savoristas.netlify.app/). It's 'a Social Network for Flavor Combinations' in the making.
 
 👈 There, you see a number of coding skills I have. JavaScript and Python are my languages so far.
